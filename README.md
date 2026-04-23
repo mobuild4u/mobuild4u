@@ -1,14 +1,15 @@
 <div align="center">
 
-# ✦ **mobuild4u** ✦
+<h1>✦ <strong>mobuild4u</strong> ✦</h1>
 
-**Senior React Native Engineer**
+<h2>Senior React Native Engineer</h2>
 
 </div>
 
 ---
 
-I design and ship cross-platform apps end to end: clear architecture, thoughtful native boundaries, and UX that feels fast and dependable. I care about measurable performance, maintainable TypeScript, and release pipelines that keep teams moving without surprises.
+<h3 align="start">I design and ship cross-platform apps end to end: clear architecture, thoughtful native boundaries, and UX that feels fast and dependable.
+I care about measurable performance, maintainable TypeScript, and release pipelines that keep teams moving without surprises.</h3>
 
 ## About Me
 
@@ -19,7 +20,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 
 ## What I Work With
 
-**Mobile**
+### Mobile
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
@@ -46,7 +47,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Firebase App Distribution](https://img.shields.io/badge/Firebase%20App%20Distribution-FFCA28?logo=firebase&logoColor=black)
 ![CodePush](https://img.shields.io/badge/CodePush-0078D4?logo=microsoft&logoColor=white)
 
-**Frontend & UI**
+### Frontend & UI
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -67,7 +68,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
-**Backend, APIs, and realtime**
+### Backend, APIs, and realtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
@@ -83,7 +84,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**DataBase**
+### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -98,7 +99,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 
-**Cloud, DevOps**
+### Cloud, DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
@@ -117,7 +118,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0F172A?logo=githubactions&logoColor=white)
 
-**Testing, quality, and observability**
+### Testing, quality, and observability
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
@@ -133,7 +134,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-16A34A?logo=lighthouse&logoColor=white)
 
-**Payments, messaging**
+### Payments, messaging
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)
@@ -148,7 +149,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?logo=walletconnect&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-3C3C3D?logo=ethereum&logoColor=white)
 
-**Collaboration, design, and workflow**
+### Collaboration, design, and workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -162,7 +163,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-FF4088?logo=husky&logoColor=white)
 
-**Other mobile & web stacks**
+### Other mobile & web stacks
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
