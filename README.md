@@ -2,25 +2,23 @@
 
 <h1>✦ <strong>mobuild4u</strong> ✦</h1>
 
-<h2>Senior React Native Engineer</h2>
+<h2>📱 Senior React Native Engineer</h2>
 
 </div>
-
----
 
 <h3 align="start">I design and ship cross-platform apps end to end: clear architecture, thoughtful native boundaries, and UX that feels fast and dependable.
 I care about measurable performance, maintainable TypeScript, and release pipelines that keep teams moving without surprises.</h3>
 
-## About Me
+## 👤 About Me
 
 - 9+ years shipping mobile and web products with strong product and design collaboration
 - React Native–first, with deep TypeScript usage and pragmatic native work when the platform demands it
 - Experienced across performance tuning, offline-first patterns, integrations, and store submission workflows
 - Focused on sustainable codebases, automated testing where it pays off, and calm production operations
 
-## What I Work With
+## 🛠️ What I Work With
 
-### Mobile
+### 📱 Mobile
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
@@ -47,7 +45,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![Firebase App Distribution](https://img.shields.io/badge/Firebase%20App%20Distribution-FFCA28?logo=firebase&logoColor=black)
 ![CodePush](https://img.shields.io/badge/CodePush-0078D4?logo=microsoft&logoColor=white)
 
-### Frontend & UI
+### 🎨 Frontend & UI
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -68,7 +66,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
-### Backend, APIs, and realtime
+### ⚙️ Backend, APIs, and realtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
@@ -84,7 +82,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-### Database
+### 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -99,7 +97,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 
-### Cloud, DevOps
+### ☁️ Cloud, DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
@@ -118,7 +116,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0F172A?logo=githubactions&logoColor=white)
 
-### Testing, quality, and observability
+### ✅ Testing, quality, and observability
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
@@ -134,7 +132,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-16A34A?logo=lighthouse&logoColor=white)
 
-### Payments, messaging
+### 💳 Payments, messaging
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)
@@ -149,7 +147,7 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?logo=walletconnect&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-3C3C3D?logo=ethereum&logoColor=white)
 
-### Collaboration, design, and workflow
+### 🤝 Collaboration, design, and workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -163,14 +161,14 @@ I care about measurable performance, maintainable TypeScript, and release pipeli
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-FF4088?logo=husky&logoColor=white)
 
-### Other mobile & web stacks
+### 📲 Other mobile & web stacks
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
 
-## Focus Areas
+## 🎯 Focus Areas
 
 - Cross-platform mobile architecture and scalable feature modules
 - Native bridges, platform APIs, and performance-sensitive UI
