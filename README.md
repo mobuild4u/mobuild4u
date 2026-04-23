@@ -8,7 +8,6 @@
 
 ---
 
-I build high-quality mobile and web products with a strong focus on performance, architecture, and polished user experience. Over the last 9+ years, I've shipped cross-platform apps, led end-to-end delivery, and partnered closely with product, design, backend, and QA teams to turn ideas into reliable releases.
 I design and ship cross-platform apps end to end: clear architecture, thoughtful native boundaries, and UX that feels fast and dependable. I care about measurable performance, maintainable TypeScript, and release pipelines that keep teams moving without surprises.
 
 ## About Me
@@ -24,9 +23,6 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React%20Navigation-7B61FF?logo=react&logoColor=white)
-![Reanimated](https://img.shields.io/badge/Reanimated-20232A?logo=react&logoColor=61DAFB)
-![Gesture Handler](https://img.shields.io/badge/Gesture%20Handler-20232A?logo=react&logoColor=61DAFB)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
@@ -34,13 +30,6 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-3C3C43?logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EA225E?logo=cocoapods&logoColor=white)
-![Native Modules](https://img.shields.io/badge/Native%20Modules-111111?logo=react&logoColor=61DAFB)
-![Turbo Modules](https://img.shields.io/badge/Turbo%20Modules-20232A?logo=react&logoColor=61DAFB)
-![New Architecture](https://img.shields.io/badge/New%20Architecture-20232A?logo=react&logoColor=61DAFB)
-![Hermes](https://img.shields.io/badge/Hermes-20232A?logo=react&logoColor=61DAFB)
 ![Metro](https://img.shields.io/badge/Metro-000000?logo=metro&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=black)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=apple&logoColor=white)
@@ -48,9 +37,6 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![In-App Purchases](https://img.shields.io/badge/In--App%20Purchases-34A853?logo=googleplay&logoColor=white)
 ![Push Notifications](https://img.shields.io/badge/Push%20Notifications-1E88E5?logo=firebase&logoColor=white)
 ![Deep Linking](https://img.shields.io/badge/Deep%20Linking-0A66C2?logo=chainlink&logoColor=white)
-![Biometrics](https://img.shields.io/badge/Biometrics-111111)
-![Keychain](https://img.shields.io/badge/Keychain-000000?logo=apple&logoColor=white)
-![MMKV](https://img.shields.io/badge/MMKV-111111)
 ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-20232A?logo=react&logoColor=61DAFB)
 ![Secure Storage](https://img.shields.io/badge/Secure%20Storage-111111)
 ![Background Tasks](https://img.shields.io/badge/Background%20Tasks-111111)
@@ -59,7 +45,6 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Camera & Media](https://img.shields.io/badge/Camera%20%26%20Media-111111?logo=ffmpeg&logoColor=white)
 ![Firebase App Distribution](https://img.shields.io/badge/Firebase%20App%20Distribution-FFCA28?logo=firebase&logoColor=black)
 ![CodePush](https://img.shields.io/badge/CodePush-0078D4?logo=microsoft&logoColor=white)
-![OTA Updates](https://img.shields.io/badge/OTA%20Updates-20232A?logo=react&logoColor=61DAFB)
 
 **Frontend & UI**
 
@@ -67,9 +52,6 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?logo=styledcomponents&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
@@ -80,13 +62,10 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white)
-![Formik](https://img.shields.io/badge/Formik-172B4D?logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 
 **Backend, APIs, and realtime**
 
@@ -97,16 +76,14 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?logo=fastapi&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4285F4?logo=google&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 
-**Data, auth, and platforms**
+**DataBase**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -121,7 +98,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 
-**Cloud, DevOps, and delivery**
+**Cloud, DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
@@ -153,11 +130,10 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Maestro](https://img.shields.io/badge/Maestro-5B21B6?logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?logo=newrelic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-16A34A?logo=lighthouse&logoColor=white)
 
-**Payments, messaging, and integrations**
+**Payments, messaging**
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)
@@ -184,9 +160,7 @@ I design and ship cross-platform apps end to end: clear architecture, thoughtful
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-FF4088?logo=husky&logoColor=white)
-![lint-staged](https://img.shields.io/badge/lint--staged-000000?logo=eslint&logoColor=white)
 
 **Other mobile & web stacks**
 
