@@ -1,6 +1,12 @@
-# Hi, I'm Jesus Monroig
+<div align="center">
+
+# ✦ **mobuild4u** ✦
 
 **Senior React Native Engineer**
+
+</div>
+
+---
 
 I build high-quality mobile and web products with a strong focus on performance, architecture, and polished user experience. Over the last 9+ years, I've shipped cross-platform apps, led end-to-end delivery, and partnered closely with product, design, backend, and QA teams to turn ideas into reliable releases.
 
@@ -44,17 +50,6 @@ I build high-quality mobile and web products with a strong focus on performance,
 ![Detox](https://img.shields.io/badge/Detox-111111?logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 
-## Experience Snapshot
-
-### Circular
-Currently building React Native features for the Circular Ring companion app across iOS and Android, covering health insights, device sync, and performance-sensitive mobile flows.
-
-### Zilleem
-Delivered 4 production projects in 12 months, including 3 mobile apps and 1 web platform, using React Native, React, Firebase, Node.js, and PostgreSQL.
-
-### Beyond Finance
-Built full-stack features, consolidated separate iOS and Android apps into a single React Native codebase, and owned CI/CD, native integrations, and app store delivery.
-
 ## Focus Areas
 
 - Cross-platform mobile architecture
@@ -65,14 +60,7 @@ Built full-stack features, consolidated separate iOS and Android apps into a sin
 
 ## Connect
 
-- GitHub: [github.com/mobuild4u](https://github.com/mobuild4u)
-- LinkedIn: [linkedin.com/in/jesus-monroig-37b401a7](https://www.linkedin.com/in/jesus-monroig-37b401a7)
+- GitHub: [mobuild4u](https://github.com/mobuild4u)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jesus-monroig-37b401a7)
 - Email: [aikennode@gmail.com](mailto:aikennode@gmail.com)
 - HackerRank: [verified skills and role certificates](https://www.hackerrank.com/aichannode)
-
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mobuild4u&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobuild4u&layout=compact&hide_border=true" alt="Top languages" />
-</p>
